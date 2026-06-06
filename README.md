@@ -32,7 +32,7 @@ Deployed a trained machine learning model as a REST API using Flask and prepared
 
 * 3apiintegration.ipynb
 * 3app.py
-* 3dockerfile
+* Dockerfile
 * 3report.md
 * breast_cancer_model.pkl
 * Supporting screenshots
